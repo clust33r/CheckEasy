@@ -6,7 +6,7 @@ API for web requests, I created with the intention of creating account checkers 
 # How to start?
 
 Place the **init.php** file inside your root folder,
-Dentro do seu codigo insira **require_once __DIR__."/init.php";** e se divirta!
+Inside your code insert **require_once __DIR __. "/ Init.php";** and have fun!
 
 
 # Documentation
