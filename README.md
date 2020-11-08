@@ -3,6 +3,12 @@ API for web requests, I created with the intention of creating account checkers 
 
 [Access my twitter for more information](https://twitter.com/clust33r)
 
+# How to start?
+
+Place the **init.php** file inside your root folder,
+Dentro do seu codigo insira **require_once __DIR__."/init.php";** e se divirta!
+
+
 # Documentation
 ## Functions
 ```php
